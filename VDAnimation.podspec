@@ -17,7 +17,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/dankinsoid/VDAnimation'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Voidilov' => 'voidilov@gmail.com' }
-  s.source           = { :git => 'https://github.com/dankinsoid/VDAnimation.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Magic-Solutions-DMCC/VDKit.git' }
 
   s.ios.deployment_target = '12.0'
   s.swift_versions = '5.4'
